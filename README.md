@@ -1,3 +1,4 @@
 # SCD-lab6
 SCD-lab6
-Bad change
+I made very minor change to this readme file
+
