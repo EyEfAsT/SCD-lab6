@@ -1,4 +1,4 @@
 # SCD-lab6
 SCD-lab6
-# How to run the project
-open the exe file :)
+I made very minor change to this readme file
+
