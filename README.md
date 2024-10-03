@@ -1,3 +1,4 @@
 # SCD-lab6
 SCD-lab6
-Bad change
+# How to run the project
+open the exe file :)
